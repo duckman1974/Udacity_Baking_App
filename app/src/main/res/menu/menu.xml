@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/main_menu"
+        android:title="@string/menu_options"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/baking_steps"
+                android:title="@string/steps"
+                app:showAsAction="ifRoom"/>
+        </menu>
+    </item>
+
+</menu>

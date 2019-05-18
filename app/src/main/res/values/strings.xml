@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="recipe_ingredients">Recipe Ingredients</string>
+    <string name="menu_options">Recipe Steps</string>
+    <string name="steps">Baking Steps</string>
+    <string name="fav_widget">Fav Recipe</string>
+    <string name="ingText">Ingredients/Recipe Steps</string>
+</resources>
